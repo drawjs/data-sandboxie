@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>status_loading_bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7EC1F6" offset="0%"></stop>
+            <stop stop-color="#7EC1F6" stop-opacity="0.595533288" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.8565041%" y1="3.14249999%" x2="9.37735316%" y2="89.256828%" id="linearGradient-2">
+            <stop stop-color="#7EC1F6" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#7EC1F6" stop-opacity="0.596948596" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="slices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-157.000000, -233.000000)">
+            <g id="status_loading_bg" transform="translate(156.500000, 232.500000)">
+                <circle id="Oval-14-Copy-4" fill="#172231" cx="11.5" cy="11.5" r="11"></circle>
+                <path d="M11.5,3.2 L11.5,4.8 C7.79969218,4.8 4.8,7.79969218 4.8,11.5 C4.8,15.2003078 7.79969218,18.2 11.5,18.2 L11.5,19.8 C6.91603658,19.8 3.2,16.0839634 3.2,11.5 C3.2,6.91603658 6.91603658,3.2 11.5,3.2 Z" id="Oval-2" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                <path d="M11.5,19.8 L11.5,18.2 C15.2003078,18.2 18.2,15.2003078 18.2,11.5 C18.2,9.20569782 17.038684,7.11055547 15.1511438,5.88120304 L16.0243488,4.54048941 C18.360609,6.06209259 19.8,8.65891294 19.8,11.5 C19.8,16.0839634 16.0839634,19.8 11.5,19.8 Z" id="Oval-2" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

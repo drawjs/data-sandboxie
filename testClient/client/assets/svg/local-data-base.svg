@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>local-data-base</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-2.沙盘" transform="translate(-27.000000, -980.000000)" fill="#C6DEF0">
+            <g id="Tabs-02" transform="translate(0.000000, 960.000000)">
+                <g id="Vehicle_result-type" transform="translate(20.000000, 15.000000)">
+                    <g id="Group-4" transform="translate(7.000000, 5.000000)">
+                        <path d="M0,2.22222222 C0,0.994922778 3.581722,0 8,0 C12.418278,0 16,0.994922778 16,2.22222222 L16,4.44444444 C16,5.67174389 12.418278,6.66666667 8,6.66666667 C3.581722,6.66666667 0,5.67174389 0,4.44444444 L0,2.22222222 Z M16,6.66666667 L16,11.1111111 C16,12.3384106 12.418278,13.3333333 8,13.3333333 C3.581722,13.3333333 0,12.3384106 0,11.1111111 L0,6.66666667 C0,7.89396611 3.581722,8.88888889 8,8.88888889 C12.418278,8.88888889 16,7.89396611 16,6.66666667 Z M16,13.3333333 L16,17.7777778 C16,19.0050772 12.418278,20 8,20 C3.581722,20 0,19.0050772 0,17.7777778 L0,13.3333333 C0,14.5606328 3.581722,15.5555556 8,15.5555556 C12.418278,15.5555556 16,14.5606328 16,13.3333333 Z" id="local-data-base"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>status_invalid</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-118.000000, -430.000000)" fill="#526375" fill-rule="nonzero">
+            <path d="M122.807829,444.606385 C123.976409,445.481596 125.427665,446 127,446 C130.865993,446 134,442.865993 134,439 C134,437.427665 133.481596,435.976409 132.606385,434.807829 L122.807829,444.606385 Z M121.393615,443.192171 L131.192171,433.393615 C130.023591,432.518404 128.572335,432 127,432 C123.134007,432 120,435.134007 120,439 C120,440.572335 120.518404,442.023591 121.393615,443.192171 Z M127,448 C122.029437,448 118,443.970563 118,439 C118,434.029437 122.029437,430 127,430 C131.970563,430 136,434.029437 136,439 C136,443.970563 131.970563,448 127,448 Z" id="status_invalid"></path>
+        </g>
+    </g>
+</svg>

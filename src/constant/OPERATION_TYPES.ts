@@ -1,0 +1,24 @@
+export const FILTER = 'FILTER'
+export const UNION = 'UNION'
+export const INTERSECT = 'INTERSECT'
+export const INTERSECT_MULTI = 'INTERSECT_MULTI'
+export const SUBTRACT = 'SUBTRACT'
+export const SUBTRACT_MULTI = 'SUBTRACT_MULTI'
+export const INTERSECT_TWO = 'INTERSECT_TWO'
+export const SUBSET = 'SUBSET'
+export const RELATE = 'RELATE'
+
+
+const OPERATION_TYPES = {
+  FILTER,
+  UNION,
+  INTERSECT,
+  INTERSECT_MULTI,
+  SUBTRACT,
+  SUBTRACT_MULTI,
+  INTERSECT_TWO,
+  SUBSET,
+  RELATE,
+}
+
+export default OPERATION_TYPES

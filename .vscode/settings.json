@@ -1,0 +1,11 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    { "language": "javascript", "autoFix": true },
+    "javascriptreact",
+    // { "language": "vue", "autoFix": true },
+    { "language": "typescript", "autoFix": true },
+  ],
+  "prettier.eslintIntegration": true
+}

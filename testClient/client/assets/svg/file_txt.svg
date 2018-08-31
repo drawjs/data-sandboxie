@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="60px" viewBox="0 0 50 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>file_txt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4FCFF4" offset="0%"></stop>
+            <stop stop-color="#20A9F5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M34.8387097,5.32907052e-15 L48.3870968,13.5483871 L48.3870968,56.0645161 C48.3870968,57.1690856 47.4916663,58.0645161 46.3870968,58.0645161 L2,58.0645161 C0.8954305,58.0645161 1.3527075e-16,57.1690856 0,56.0645161 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L34.8387097,0 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0AA0D1" offset="0%"></stop>
+            <stop stop-color="#0186BC" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-33.0%" y="-33.0%" width="166.1%" height="166.1%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1.59877232" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#8DE5FF" offset="0%"></stop>
+            <stop stop-color="#83D1FB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="slices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-307.000000, -56.000000)">
+            <g id="file_txt" transform="translate(302.000000, 56.000000)">
+                <rect id="Rectangle-27-Copy-2" fill-opacity="0.00999999978" fill="#182330" opacity="0.0106431159" x="0" y="0" width="60" height="60"></rect>
+                <g id="Group-7-Copy-17" transform="translate(5.774194, 0.967742)">
+                    <g id="Rectangle-23-Copy-5">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        <path d="M33.8709677,0 L48.3870968,14.516129 L35.8709677,14.516129 C34.7663982,14.516129 33.8709677,13.6206985 33.8709677,12.516129 L33.8709677,0 Z" fill="url(#linearGradient-4)" opacity="0.404891304" filter="url(#filter-5)" mask="url(#mask-3)"></path>
+                    </g>
+                    <path d="M34.8387097,0 L48.3870968,13.5483871 L36.8387097,13.5483871 C35.7341402,13.5483871 34.8387097,12.6529566 34.8387097,11.5483871 L34.8387097,0 Z" id="Rectangle-23-Copy-5" fill="url(#linearGradient-6)"></path>
+                    <path d="M12.0609677,27.2903226 L19.4719355,27.2903226 L19.4719355,28.4825806 L16.41,28.4825806 L16.41,36.7741935 L15.1093548,36.7741935 L15.1093548,28.4825806 L12.0609677,28.4825806 L12.0609677,27.2903226 Z M20.1087097,27.2903226 L21.626129,27.2903226 L24.1190323,30.8264516 L26.6254839,27.2903226 L28.1564516,27.2903226 L24.9454839,31.8425806 L28.4274194,36.7741935 L26.8693548,36.7741935 L24.1190323,32.94 L21.3958065,36.7741935 L19.8648387,36.7741935 L23.3332258,31.8967742 L20.1087097,27.2903226 Z M28.9151613,27.2903226 L36.326129,27.2903226 L36.326129,28.4825806 L33.2641935,28.4825806 L33.2641935,36.7741935 L31.9635484,36.7741935 L31.9635484,28.4825806 L28.9151613,28.4825806 L28.9151613,27.2903226 Z" id="TXT" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

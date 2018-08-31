@@ -1,0 +1,7 @@
+# Dependcies
+**/node_modules
+
+# Build results
+build
+build-test-client
+

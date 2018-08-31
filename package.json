@@ -1,0 +1,70 @@
+{
+  "name": "github-data-sandboxie",
+  "version": "1.0.0",
+  "description": "A chart for multi-level data combination",
+  "main": "config.js",
+  "scripts": {
+    "start": "npm run tc | webpack --watch --mode development",
+    "dev": "webpack --watch --mode development",
+    "build": "webpack --mode production",
+    "tc": "cross-env NODE_ENV=development node testClient/server/index.js",
+    "btc": "node testClient/server/index.js",
+    "server": "node server.js",
+    "serverDraw": "node ../Draw/server.js",
+    "test": "jasmine",
+    "eslint": "eslint src/**/*",
+    "eslintFix": "eslint src/**/* --fix"
+  },
+  "devDependencies": {
+    "ajv": "^5.5.2",
+    "cross-env": "^5.2.0",
+    "css-loader": "^0.28.11",
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.11",
+    "fs-extra": "^6.0.1",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.3",
+    "html-webpack-plugin": "^3.2.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "ts-loader": "^4.3.0",
+    "typescript": "^2.8.3",
+    "typescript-eslint-parser": "^15.0.0",
+    "url-loader": "^1.0.1",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.4",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.5.16",
+    "vuex": "^3.0.1",
+    "webpack": "^4.8.3",
+    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-cli": "^2.0.15",
+    "webpack-dev-middleware": "^3.2.0",
+    "webpack-dev-server": "^3.1.4",
+    "webpack-hot-middleware": "^2.22.3"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.91",
+    "browser-sync": "^2.19.0",
+    "clean-webpack-plugin": "^0.1.17",
+    "copy-webpack-plugin": "^4.3.1",
+    "gulp-sourcemaps": "^2.6.2",
+    "gulp-tsb": "^2.0.5",
+    "jasmine": "^2.8.0",
+    "lodash": "^4.17.4",
+    "rimraf": "^2.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drawjs/data-sandboxie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drawjs/data-sandboxie/issues"
+  },
+  "homepage": "https://github.com/drawjs/data-sandboxie#readme"
+}

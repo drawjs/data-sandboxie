@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="60px" viewBox="0 0 48 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>file_data-base</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="41.6590074%" x2="100%" y2="41.6590065%" id="linearGradient-1">
+            <stop stop-color="#0B8FDB" offset="0%"></stop>
+            <stop stop-color="#0C73DB" offset="72.1923828%"></stop>
+            <stop stop-color="#2A83F1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.21710205%" y1="34.4645182%" x2="97.5575765%" y2="22.1150716%" id="linearGradient-2">
+            <stop stop-color="#0572D3" offset="0%"></stop>
+            <stop stop-color="#004394" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#35A8FC" offset="0%"></stop>
+            <stop stop-color="#51B8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="slices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-548.000000, -56.000000)">
+            <g id="file_data-base" transform="translate(548.000000, 56.000000)">
+                <g id="Group-8-Copy-3" transform="translate(0.774194, 0.967742)">
+                    <path d="M46.4516129,37.7419355 L46.4516129,49.3548387 C46.4516129,54.1650607 36.0530652,58.0645161 23.2258065,58.0645161 C10.3985477,58.0645161 0,54.1650607 0,49.3548387 L0,37.7419355 L0,8.70967742 L46.4516129,8.70967742 L46.4516129,37.7419355 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                    <path d="M46.4516129,34.8387097 L46.4516129,37.7419355 C46.4516129,42.5521575 36.0530652,46.4516129 23.2258065,46.4516129 C10.3985477,46.4516129 0,42.5521575 0,37.7419355 L0,34.8387097 C0,39.6489317 10.3985477,43.5483871 23.2258065,43.5483871 C36.0530652,43.5483871 46.4516129,39.6489317 46.4516129,34.8387097 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+                    <path d="M46.4516129,20.3225806 L46.4516129,23.2258065 C46.4516129,28.0360285 36.0530652,31.9354839 23.2258065,31.9354839 C10.3985477,31.9354839 0,28.0360285 0,23.2258065 L0,20.3225806 C0,25.1328027 10.3985477,29.0322581 23.2258065,29.0322581 C36.0530652,29.0322581 46.4516129,25.1328027 46.4516129,20.3225806 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+                    <ellipse id="Oval-12" fill="url(#linearGradient-3)" cx="23.2258065" cy="8.70967742" rx="23.2258065" ry="8.70967742"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

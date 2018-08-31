@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7EC1F6" offset="0%"></stop>
+            <stop stop-color="#7EC1F6" stop-opacity="0.595533288" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.8565041%" y1="3.14249999%" x2="9.37735316%" y2="89.256828%" id="linearGradient-2">
+            <stop stop-color="#7EC1F6" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#7EC1F6" stop-opacity="0.596948596" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="slices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-132.000000, -234.000000)" fill-rule="nonzero">
+            <g id="Group" transform="translate(132.000000, 234.000000)">
+                <path d="M8.5,0.2 L8.5,1.8 C4.79969218,1.8 1.8,4.79969218 1.8,8.5 C1.8,12.2003078 4.79969218,15.2 8.5,15.2 L8.5,16.8 C3.91603658,16.8 0.2,13.0839634 0.2,8.5 C0.2,3.91603658 3.91603658,0.2 8.5,0.2 Z" id="Oval-2" fill="url(#linearGradient-1)"></path>
+                <path d="M8.5,16.8 L8.5,15.2 C12.2003078,15.2 15.2,12.2003078 15.2,8.5 C15.2,6.20569782 14.038684,4.11055547 12.1511438,2.88120304 L13.0243488,1.54048941 C15.360609,3.06209259 16.8,5.65891294 16.8,8.5 C16.8,13.0839634 13.0839634,16.8 8.5,16.8 Z" id="Oval-2" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

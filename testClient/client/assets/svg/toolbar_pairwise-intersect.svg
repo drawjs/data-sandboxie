@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>toolbar_pairwise-intersect</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="6.42857143" cy="6.42857143" r="6.42857143"></circle>
+        <circle id="path-2" cx="9.85714286" cy="12.4285714" r="6.42857143"></circle>
+        <circle id="path-3" cx="13.2857143" cy="6.42857143" r="6.42857143"></circle>
+    </defs>
+    <g id="slices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1108.000000, -388.000000)">
+            <g id="toolbar_pairwise-intersect" transform="translate(1107.000000, 388.000000)">
+                <g transform="translate(0.714286, 0.428571)" id="Group-10">
+                    <g transform="translate(0.428571, 0.000000)">
+                        <g id="Oval-10-Copy-13">
+                            <use fill-opacity="0.200000003" fill="#C6DEF0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <circle stroke-opacity="0.401296422" stroke="#C6DEF0" stroke-width="1" cx="6.42857143" cy="6.42857143" r="5.92857143"></circle>
+                        </g>
+                        <g id="Oval-10-Copy-14">
+                            <use fill-opacity="0.200000003" fill="#C6DEF0" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <circle stroke-opacity="0.401296422" stroke="#C6DEF0" stroke-width="1" cx="9.85714286" cy="12.4285714" r="5.92857143"></circle>
+                        </g>
+                        <g id="Oval-10-Copy-15">
+                            <use fill-opacity="0.200000003" fill="#C6DEF0" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <circle stroke-opacity="0.401296422" stroke="#C6DEF0" stroke-width="1" cx="13.2857143" cy="6.42857143" r="5.92857143"></circle>
+                        </g>
+                        <path d="M6.86444081,6.7376168 C6.85959378,6.63521066 6.85714286,6.53217727 6.85714286,6.42857143 C6.85714286,4.13866326 8.05442758,2.12839593 9.85714286,0.989623611 C11.6598581,2.12839593 12.8571429,4.13866326 12.8571429,6.42857143 C12.8571429,6.53217727 12.8546919,6.63521066 12.8498449,6.7376168 C14.8071829,7.76904916 16.1677161,9.78069495 16.2784163,12.1195261 C15.3845765,12.5905409 14.3662795,12.8571429 13.2857143,12.8571429 C12.0252205,12.8571429 10.8494584,12.4943634 9.85714286,11.8675192 C8.86482733,12.4943634 7.68906523,12.8571429 6.42857143,12.8571429 C5.3480062,12.8571429 4.32970919,12.5905409 3.43586938,12.1195261 C3.54656964,9.78069495 4.90710283,7.76904916 6.86444081,6.7376168 Z" id="Combined-Shape" fill-opacity="0.80431952" fill="#C6DEF0"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

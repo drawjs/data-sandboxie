@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>toolbar_intersect_null</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="15.4285714" cy="7.71428571" r="7.71428571"></circle>
+        <circle id="path-2" cx="7.71428571" cy="7.71428571" r="7.71428571"></circle>
+    </defs>
+    <g id="slices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-826.000000, -315.000000)">
+            <g id="toolbar_intersect_null" transform="translate(826.000000, 315.000000)">
+                <g id="Group-7" transform="translate(0.428571, 0.285714)">
+                    <g id="Oval-10-Copy-5">
+                        <use fill-opacity="0.204115716" fill="#64798E" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <circle stroke-opacity="0.395748415" stroke="#64798E" stroke-width="1" cx="15.4285714" cy="7.71428571" r="7.21428571"></circle>
+                    </g>
+                    <g id="Oval-10-Copy-6">
+                        <use fill-opacity="0.204115716" fill="#64798E" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <circle stroke-opacity="0.395748415" stroke="#64798E" stroke-width="1" cx="7.71428571" cy="7.71428571" r="7.21428571"></circle>
+                    </g>
+                    <path d="M11.5714286,14.3965374 C9.26562329,13.062701 7.71428571,10.5696605 7.71428571,7.71428571 C7.71428571,4.85891091 9.26562329,2.36587041 11.5714286,1.03203408 C13.8772339,2.36587041 15.4285714,4.85891091 15.4285714,7.71428571 C15.4285714,10.5696605 13.8772339,13.062701 11.5714286,14.3965374 Z" id="Combined-Shape" fill-opacity="0.8" fill="#64798E"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

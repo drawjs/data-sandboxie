@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="52px" viewBox="0 0 64 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>file_phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7F95FC" offset="0%"></stop>
+            <stop stop-color="#586AE6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#26339C" offset="0%"></stop>
+            <stop stop-color="#3C51E3" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-8.5%" y="-12.7%" width="117.1%" height="125.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.59877232" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#99A5FF" offset="0%"></stop>
+            <stop stop-color="#7C8BF1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="slices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-300.000000, -137.000000)">
+            <g id="file_phone" transform="translate(303.000000, 137.000000)">
+                <g id="Group-18-Copy-3" transform="translate(0.935484, 0.806452)">
+                    <path d="M4,0 L27.3754038,0 C28.4362698,-1.94877915e-16 29.4536854,0.421427361 30.2038309,1.17157288 L34.5458165,5.51355839 C34.7333528,5.70109477 34.9877067,5.80645161 35.2529232,5.80645161 L52.1290323,5.80645161 C54.3381713,5.80645161 56.1290323,7.59731261 56.1290323,9.80645161 L56.1290323,44.3870968 C56.1290323,46.5962358 54.3381713,48.3870968 52.1290323,48.3870968 L4,48.3870968 C1.790861,48.3870968 2.705415e-16,46.5962358 0,44.3870968 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle-23" fill="url(#linearGradient-1)"></path>
+                    <rect id="Rectangle-29" fill="url(#linearGradient-2)" opacity="0.404891304" filter="url(#filter-3)" x="0" y="9.67741935" width="56.1290323" height="37.7419355" rx="4"></rect>
+                    <rect id="Rectangle-29" fill="url(#linearGradient-4)" x="0" y="10.6451613" width="56.1290323" height="37.7419355" rx="4"></rect>
+                    <path d="M23.2903226,20.3225806 L32.8387097,20.3225806 C33.9432792,20.3225806 34.8387097,21.2180111 34.8387097,22.3225806 L34.8387097,37.6764743 C34.8387097,38.7810438 33.9432792,39.6764743 32.8387097,39.6764743 L23.2903226,39.6764743 C22.1857531,39.6764743 21.2903226,38.7810438 21.2903226,37.6764743 L21.2903226,22.3225806 C21.2903226,21.2180111 22.1857531,20.3225806 23.2903226,20.3225806 Z M24.3064516,22.4897288 C23.7541669,22.4897288 23.3064516,22.9374441 23.3064516,23.4897288 L23.3064516,32.524701 C23.3064516,33.0769857 23.7541669,33.524701 24.3064516,33.524701 L31.8225806,33.524701 C32.3748654,33.524701 32.8225806,33.0769857 32.8225806,32.524701 L32.8225806,23.4897288 C32.8225806,22.9374441 32.3748654,22.4897288 31.8225806,22.4897288 L24.3064516,22.4897288 Z M28.0645161,38.53801 C28.8439503,38.53801 29.4758065,37.9008752 29.4758065,37.1149295 C29.4758065,36.3289839 28.8439503,35.6918491 28.0645161,35.6918491 C27.285082,35.6918491 26.6532258,36.3289839 26.6532258,37.1149295 C26.6532258,37.9008752 27.285082,38.53801 28.0645161,38.53801 Z" id="phone" fill="#5463C9"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

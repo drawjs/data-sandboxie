@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="52px" viewBox="0 0 64 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>file_human</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7F95FC" offset="0%"></stop>
+            <stop stop-color="#586AE6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#26339C" offset="0%"></stop>
+            <stop stop-color="#3C51E3" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-8.5%" y="-12.7%" width="117.1%" height="125.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.59877232" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#99A5FF" offset="0%"></stop>
+            <stop stop-color="#7C8BF1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="slices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-220.000000, -137.000000)">
+            <g id="file_human" transform="translate(223.000000, 137.000000)">
+                <g id="Group-18-Copy-2" transform="translate(0.935484, 0.806452)">
+                    <path d="M4,0 L27.3754038,0 C28.4362698,-1.94877915e-16 29.4536854,0.421427361 30.2038309,1.17157288 L34.5458165,5.51355839 C34.7333528,5.70109477 34.9877067,5.80645161 35.2529232,5.80645161 L52.1290323,5.80645161 C54.3381713,5.80645161 56.1290323,7.59731261 56.1290323,9.80645161 L56.1290323,44.3870968 C56.1290323,46.5962358 54.3381713,48.3870968 52.1290323,48.3870968 L4,48.3870968 C1.790861,48.3870968 2.705415e-16,46.5962358 0,44.3870968 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle-23" fill="url(#linearGradient-1)"></path>
+                    <rect id="Rectangle-29" fill="url(#linearGradient-2)" opacity="0.404891304" filter="url(#filter-3)" x="0" y="9.67741935" width="56.1290323" height="37.7419355" rx="4"></rect>
+                    <rect id="Rectangle-29" fill="url(#linearGradient-4)" x="0" y="10.6451613" width="56.1290323" height="37.7419355" rx="4"></rect>
+                    <path d="M25.1896724,29.5417784 C26.0395174,30.0187809 27.0201995,30.2908342 28.0645161,30.2908342 C29.1072795,30.2908342 30.0865974,30.0195896 30.9355669,29.5439055 C34.0628245,30.518983 36.2903226,33.096763 36.2903226,36.5563256 C36.2903226,38.9174715 32.6075036,39.6774194 28.0645161,39.6774194 C23.5215287,39.6774194 19.8387097,39.1967335 19.8387097,36.5563256 C19.8387097,33.0758914 22.0644068,30.5111528 25.1896724,29.5417784 Z M28.0645161,29.1174378 C25.4685233,29.1174378 23.3640553,27.016048 23.3640553,24.4238523 C23.3640553,21.8316567 25.4685233,19.7302669 28.0645161,19.7302669 C30.660509,19.7302669 32.764977,21.8316567 32.764977,24.4238523 C32.764977,27.016048 30.660509,29.1174378 28.0645161,29.1174378 Z" id="human" fill="#5463C9"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
