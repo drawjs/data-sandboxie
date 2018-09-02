@@ -26,8 +26,12 @@ export default class Ds extends Draw {
   getters: Getters
   actions: Actions
 
-  constructor( canvas: HTMLCanvasElement, setting: Setting ) {
-    super( canvas, true )
+  constructor( canvas: HTMLCanvasElement, setting: DsSetting ) {
+    setting = {
+      ...setting,
+      isExtended: true
+    }
+    super( canvas, setting )
 
     this.drawStore = new Store( this )
     this.store = <Store>this.drawStore
