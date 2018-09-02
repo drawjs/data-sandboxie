@@ -9,7 +9,7 @@ export default class Store extends DrawStore {
 
   formatter: Formatter = null
 
-  setting: Setting
+  setting: DsSetting
 
   constructor( ds: Ds ) {
     super()

@@ -14,6 +14,11 @@ class Getters {
     return selectedSingleNodes.length 
   }
 
+  get selectedDsElementsCount() {
+    const { selectedDsElements = [] } = this.store.ds.getters
+    return selectedDsElements.length 
+  }
+
 }
 
 class Mutations {

@@ -249,7 +249,7 @@ export default class Actions extends DrawActions {
   /**
    * Setting
    */
-  UPDATE_SETTING( setting: Setting ) {
+  UPDATE_SETTING( setting: DsSetting ) {
     this.store.setting = setting
   }
 }

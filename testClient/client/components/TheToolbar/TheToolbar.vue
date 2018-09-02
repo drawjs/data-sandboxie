@@ -16,7 +16,7 @@
         Import
       </label>
       <Button  id="exportButton" @click.native="onExportClick">Export</Button>
-      <Button  id="delteButton" @click.native="onDeleteClick">Delete</Button>
+      <Button :disabled="! deletable"  id="delteButton" @click.native="onDeleteClick">Delete</Button>
 
       <span id="sourceDataNode" >Node (Drag to generate)</span>
 
@@ -37,7 +37,7 @@ export default {
   },
   inject: ['dsModelMap' ],
   computed: {
-    ...mapState( 'app', [ 'operable' ] ),
+    ...mapState( 'app', [ 'operable', 'deletable' ] ),
     notOperable() {
       return !this.operable
     },
@@ -53,10 +53,10 @@ export default {
   },
   mounted() {
     const { dsModel } = this
-    this.autoUpdateOperable( { dsModel } )
+    this.autoUpdateOperableDeletable( { dsModel } )
   },
   methods: {
-    ...mapActions( 'app', [ 'autoUpdateOperable' ] ),
+    ...mapActions( 'app', [ 'autoUpdateOperableDeletable' ] ),
     onButton1Click() {
       const { ds, formatter } = this
       formatter.format()
@@ -123,6 +123,9 @@ export default {
       this.ds.exportData()
     },
     onDeleteClick() {
+      if ( ! this.deletable ) {
+        return
+      }
       const { ds } = this
       ds.actions.DELETE_SELECTED_DS_ELEMENTS()
       ds.render()

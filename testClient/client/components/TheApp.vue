@@ -203,7 +203,8 @@ export default {
     onOperationsClick( operation ){
       // this.UPDATE_OPERATION_INFO( operation )
       // this.openOperationPanel()
-      this.onGenerateResultClick( operation )
+
+      operation && ! operation.resultNode && this.onGenerateResultClick( operation )
     },
     onResultNodesClick(resultNode){
       // this.UPDATE_RESULT_NODE_INFO(resultNode)

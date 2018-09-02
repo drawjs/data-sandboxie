@@ -63,5 +63,8 @@ module.exports = {
       }
     ] ),
     new VueLoaderPlugin()
-  ].concat( __DEV__ ? [ new webpack.HotModuleReplacementPlugin() ] : [ new BundleAnalyzerPlugin() ] )
+  ].concat( __DEV__ ? [ new webpack.HotModuleReplacementPlugin() ] : [
+    //  new BundleAnalyzerPlugin() 
+    ] 
+    )
 }
